@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SourCalc</string>
+    <string name="calculate_b">Számol</string>
+    <string name="flour">Liszt (g)</string>
+    <string name="salt">Só (g)</string>
+    <string name="starter">Kovász (g)</string>
+    <string name="water">Víz (g)</string>
+    <string name="edit_msg">Liszt mennyisége</string>
+    <string name="leaven_switch_off">"Előkovásszal  "</string>
+    <string name="leaven_switch_on">"Egyszerűen  "</string>
+    <string name="leaven_label">Előkovász</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SourCalc</string>
+    <string name="calculate_b">Calculate</string>
+    <string name="flour">Flour (g)</string>
+    <string name="water">Water (g)</string>
+    <string name="starter">Starter (g)</string>
+    <string name="salt">Salt (g)</string>
+    <string name="edit_msg">Enter flour quantity</string>
+    <string name="invalid_str" translatable="false">n/a</string>
+    <string name="leaven_switch_off">"With Leaven  "</string>
+    <string name="leaven_switch_on">"No Leaven  "</string>
+    <string name="leaven_label">Leaven</string>
+</resources>
