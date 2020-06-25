@@ -5,7 +5,7 @@
     <string name="water">Water (g)</string>
     <string name="starter">Starter (g)</string>
     <string name="salt">Salt (g)</string>
-    <string name="edit_msg">Enter flour quantity</string>
+    <string name="edit_msg">How much flour will you work with?</string>
     <string name="invalid_str" translatable="false">n/a</string>
     <string name="leaven_switch_off">"With Leaven  "</string>
     <string name="leaven_switch_on">"No Leaven  "</string>
