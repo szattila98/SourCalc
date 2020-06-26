@@ -1,13 +1,14 @@
 <resources>
-    <string name="app_name">SourCalc</string>
+    <string name="app_name">Sourdough Calcalculator</string>
     <string name="calculate_b">Calculate</string>
     <string name="flour">Flour (g)</string>
     <string name="water">Water (g)</string>
     <string name="starter">Starter (g)</string>
     <string name="salt">Salt (g)</string>
-    <string name="edit_msg">How much flour will you work with?</string>
+    <string name="edit_msg">Type in how much flour you want to use!</string>
     <string name="invalid_str" translatable="false">n/a</string>
-    <string name="leaven_switch_off">"With Leaven  "</string>
-    <string name="leaven_switch_on">"No Leaven  "</string>
-    <string name="leaven_label">Leaven</string>
+    <string name="preferment_switch_off">With Preferment</string>
+    <string name="preferment_switch_on">No Preferment</string>
+    <string name="preferment_label">Preferment</string>
+    <string name="dough_label">Dough</string>
 </resources>
